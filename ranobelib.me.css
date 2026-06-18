@@ -1,3 +1,4 @@
-.p8_t{
-    background-color: black !important;
+/* rl-reader-bg $ Чёрный фон колонки с текстом главы */
+.p8_t {
+  background-color: #000000 !important;
 }
